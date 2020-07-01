@@ -1,0 +1,1 @@
+EncoderTestTool.exe -c "EncoderTest-Camera-P2R-LTR0.cfg" -s "D:\Conformance\Test\Test_640x360_30Hz_P420.yuv" -d "D:\Conformance\Test\zlt-c-anchor-0302.dll" "D:\Conformance\Test\zlt-c-phase2-0302.dll" -p "D:\Conformance\Product Conformance Test-0116\EncoderTest-Camera-P2R-LTR0.cfg"

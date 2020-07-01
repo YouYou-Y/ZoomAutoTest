@@ -1,0 +1,761 @@
+Init Encoder
+
+Init Buffer
+
+
+
+ ========== ========== 0/68 ========== ==========
+case: 0	Qp: 3	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 1/68 ========== ==========
+case: 0	Qp: 6	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 2/68 ========== ==========
+case: 0	Qp: 9	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 3/68 ========== ==========
+case: 0	Qp: 12	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 4/68 ========== ==========
+case: 0	Qp: 15	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 5/68 ========== ==========
+case: 0	Qp: 18	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 6/68 ========== ==========
+case: 0	Qp: 21	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 7/68 ========== ==========
+case: 0	Qp: 24	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 8/68 ========== ==========
+case: 0	Qp: 27	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 9/68 ========== ==========
+case: 0	Qp: 30	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 10/68 ========== ==========
+case: 0	Qp: 33	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 11/68 ========== ==========
+case: 0	Qp: 36	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 12/68 ========== ==========
+case: 0	Qp: 39	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 13/68 ========== ==========
+case: 0	Qp: 42	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 14/68 ========== ==========
+case: 0	Qp: 45	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 15/68 ========== ==========
+case: 0	Qp: 48	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 16/68 ========== ==========
+case: 0	Qp: 51	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 17/68 ========== ==========
+case: 0	Qp: 3	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 18/68 ========== ==========
+case: 0	Qp: 6	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 19/68 ========== ==========
+case: 0	Qp: 9	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 20/68 ========== ==========
+case: 0	Qp: 12	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 21/68 ========== ==========
+case: 0	Qp: 15	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 22/68 ========== ==========
+case: 0	Qp: 18	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 23/68 ========== ==========
+case: 0	Qp: 21	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 24/68 ========== ==========
+case: 0	Qp: 24	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 25/68 ========== ==========
+case: 0	Qp: 27	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 26/68 ========== ==========
+case: 0	Qp: 30	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 27/68 ========== ==========
+case: 0	Qp: 33	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 28/68 ========== ==========
+case: 0	Qp: 36	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 29/68 ========== ==========
+case: 0	Qp: 39	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 30/68 ========== ==========
+case: 0	Qp: 42	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 31/68 ========== ==========
+case: 0	Qp: 45	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 32/68 ========== ==========
+case: 0	Qp: 48	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 33/68 ========== ==========
+case: 0	Qp: 51	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 34/68 ========== ==========
+case: 0	Qp: 3	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 35/68 ========== ==========
+case: 0	Qp: 6	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 36/68 ========== ==========
+case: 0	Qp: 9	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 37/68 ========== ==========
+case: 0	Qp: 12	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 38/68 ========== ==========
+case: 0	Qp: 15	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 39/68 ========== ==========
+case: 0	Qp: 18	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 40/68 ========== ==========
+case: 0	Qp: 21	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 41/68 ========== ==========
+case: 0	Qp: 24	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 42/68 ========== ==========
+case: 0	Qp: 27	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 43/68 ========== ==========
+case: 0	Qp: 30	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 44/68 ========== ==========
+case: 0	Qp: 33	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 45/68 ========== ==========
+case: 0	Qp: 36	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 46/68 ========== ==========
+case: 0	Qp: 39	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 47/68 ========== ==========
+case: 0	Qp: 42	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 48/68 ========== ==========
+case: 0	Qp: 45	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 49/68 ========== ==========
+case: 0	Qp: 48	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 50/68 ========== ==========
+case: 0	Qp: 51	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 51/68 ========== ==========
+case: 0	Qp: 3	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 52/68 ========== ==========
+case: 0	Qp: 6	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 53/68 ========== ==========
+case: 0	Qp: 9	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 54/68 ========== ==========
+case: 0	Qp: 12	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 55/68 ========== ==========
+case: 0	Qp: 15	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 56/68 ========== ==========
+case: 0	Qp: 18	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 57/68 ========== ==========
+case: 0	Qp: 21	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 58/68 ========== ==========
+case: 0	Qp: 24	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 59/68 ========== ==========
+case: 0	Qp: 27	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 60/68 ========== ==========
+case: 0	Qp: 30	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 61/68 ========== ==========
+case: 0	Qp: 33	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 62/68 ========== ==========
+case: 0	Qp: 36	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 63/68 ========== ==========
+case: 0	Qp: 39	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 64/68 ========== ==========
+case: 0	Qp: 42	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 65/68 ========== ==========
+case: 0	Qp: 45	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 66/68 ========== ==========
+case: 0	Qp: 48	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+
+ ========== ========== 67/68 ========== ==========
+case: 0	Qp: 51	bitrate: 0	Gop: 1	Qos: 2	Bitfield: 0x0
+encode 1 
+Compare Finished
+
+encode 2 
+Compare Finished
+
+Bitstream cmp 
+
+finish test, start record
+
+record finished
+
+
+test3_640x360_30Hz_P420.yuv & EncoderTest-Camera-P2R-LTR1.cfg Test Result is Passed.
+
+

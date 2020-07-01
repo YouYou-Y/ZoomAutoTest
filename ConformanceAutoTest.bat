@@ -1,0 +1,1 @@
+python C:\Users\daisy\PycharmProjects\ZoomAutoTest\AutoTest.py
